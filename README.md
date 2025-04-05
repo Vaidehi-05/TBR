@@ -12,11 +12,12 @@
 <br>
 - Throws a cool fun fact at start of each project run for all those booktroverts!
 <br>
-## Hope you enjoy experiencing TBR, as much as we had fun creating it! ✨🎉
 <br>
 ## 💻Technical Specifications
 <br>
 - Completely coded in C++
 <br>
 - A simple easy to understand code.
+<br>
+## Hope you enjoy experiencing TBR, as much as we had fun creating it! ✨🎉
 <br>
