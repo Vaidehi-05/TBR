@@ -16,7 +16,7 @@
 <br>
 💻Technical Specifications
 <br>
-- Completely coded in C++
+- Completely coded in C.
 <br>
 - A simple easy to understand code.
 <br>
