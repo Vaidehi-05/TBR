@@ -20,5 +20,6 @@
 <br>
 - A simple easy to understand code.
 <br>
+<br>
 Hope you enjoy experiencing TBR, as much as we had fun creating it! ✨🎉
 <br>
