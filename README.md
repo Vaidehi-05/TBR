@@ -3,7 +3,7 @@
 ### TBR is a book recommendation platform that takes you through a tour of the reading world, and helps them choose such that by the time you reach the end of the journey, our platform presents you with your own To Be Read list tailored completely to your own preferences! 🎉
 
 <br>
-📝Project specifications
+📝Project features
 <br>
 - Asks for your preferences from a wide array of fields such as current book lover level, genre, author, subgenres based on selected genres and many more!
 <br>
