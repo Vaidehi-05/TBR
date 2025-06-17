@@ -1,5 +1,5 @@
 ## 🚀TBR: Discover your next TO BE READ! 📚✨
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)<br>
 
 >Ever found yourself wanting to read, but clueless where to start? Or just really wishing for a fairy Godmother to appear and hand you the next book you'll fall in love with? Here we present, a **_book recommendation platform_** that takes you through a tour of the reading world, and helps you choose, such that by the time you reach the end of the journey, our platform presents you with your own To Be Read list tailored completely to your own preferences! 🎉
@@ -28,6 +28,8 @@ A reading journey is but a chaotic one. Every single book, from your first pick 
 
 ###  How it works 🛠️
 1️⃣ Add all your preferences in a simple y/n (1/0) setup.<br>
+>example:<br>
+![image](https://github.com/user-attachments/assets/32c50298-fb10-4e8c-84bd-cf8b679c666a)
 2️⃣ Sit back and get reading!<br>
 
 ## Project Structure 📁
