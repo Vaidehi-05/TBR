@@ -310,7 +310,7 @@ int genre[3];
     printf("           \t\t\t\t\t**************          ");
     printf("\n");
     printf("\n");
-    printf("Select the category:\nPress\n0 for Beginner (completely new to reading books)\n1 for Intermediate (have read 1 to  books)\n2 for Advanced (have read upto 15 books)\n3 for Bookworm (have read more than 15 books)\n");
+    printf("Select the category:\nPress\n0 for Beginner (completely new to reading books)\n1 for Intermediate (have read 1 to 10 books)\n2 for Advanced (have read upto 15 books)\n3 for Bookworm (have read more than 15 books)\n");
     printf("\nEnter your response:  ");
     scanf("%d",&categ);
     printf("\n");
