@@ -42,4 +42,5 @@ A reading journey is but a chaotic one. Every single book, from your first pick 
 | `TBR.c   `        | Core logic and implementation                 |
 | `README.md`       | Project Documentation                         |
 <hr><br>
+
 > Happy Reading! 📚✨
