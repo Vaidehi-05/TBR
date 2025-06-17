@@ -18,6 +18,7 @@ A reading journey is but a chaotic one. Every single book, from your first pick 
 ![image](https://github.com/user-attachments/assets/da32493d-03e9-4c4d-8624-e5e5a6462d11)
 <hr>
 <br>
+
 ### Prerequisites 📌
 ✅ A C compatible compiler<br>
 ✅ Any OS : Windows/ Mac/ Linux<br>
@@ -30,7 +31,8 @@ A reading journey is but a chaotic one. Every single book, from your first pick 
 ###  How it works 🛠️
 1️⃣ Add all your preferences in a simple y/n (1/0) setup.<br>
 >example:<br>
-![image](https://github.com/user-attachments/assets/32c50298-fb10-4e8c-84bd-cf8b679c666a)<br>
+![image](https://github.com/user-attachments/assets/32c50298-fb10-4e8c-84bd-cf8b679c666a)
+<br>
 2️⃣ Sit back and get reading!<br>
 
 ### Project Structure 📁
