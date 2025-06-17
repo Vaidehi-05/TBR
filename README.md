@@ -9,7 +9,7 @@ A reading journey is but a chaotic one. Every single book, from your first pick 
 
 ### Features 📖✨<br>
 ✔️ Throws a cool fun fact at start of each run for all those booktroverts!<br>
-✔️ In depth questionairre, analysing your reading taste on a variety of parameters such as: current book lover level, genre, author, subgenres based on selected genres and many more.<br>
+✔️ In depth questionnaire, analysing your reading taste on a variety of parameters such as: current book lover level, genre, author, subgenres based on selected genres and many more.<br>
 ✔️ Further detailed evaluation based on your current book experiences.<br>
 ✔️ A simple command line based UI for easy interaction.<br>
 
@@ -29,10 +29,10 @@ A reading journey is but a chaotic one. Every single book, from your first pick 
 ###  How it works 🛠️
 1️⃣ Add all your preferences in a simple y/n (1/0) setup.<br>
 >example:<br>
-![image](https://github.com/user-attachments/assets/32c50298-fb10-4e8c-84bd-cf8b679c666a)
+![image](https://github.com/user-attachments/assets/32c50298-fb10-4e8c-84bd-cf8b679c666a)<br>
 2️⃣ Sit back and get reading!<br>
 
-## Project Structure 📁
+### Project Structure 📁
 
 | File              | Purpose                                       |
 | ----------------- | ----------------------------------------------|
